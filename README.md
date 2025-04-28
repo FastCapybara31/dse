@@ -3,7 +3,7 @@ Bonjour, voici le projet du groupe "room 4" pourtant sur la prédiction des scor
 
 * en se basant sur le dataset de Kaggle -> "https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data"  
 * en équipe avec :  
--> Albert : https://github.com/Ter0rra/projet-DSE-FT-101-room-4- 
+-> Albert : https://github.com/Ter0rra/projet-DSE-FT-101-room-4-  
 -> Anthony : https://github.com/Ant-gcb/DSE_Project  
 -> Asma :  
 -> Olivier :    
