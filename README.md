@@ -6,7 +6,7 @@ en équipe avec :
 -> Thomas : https://github.com/FastCapybara31/dse  
 -> Anthony : https://github.com/Ant-gcb/DSE_Project  
 -> Asma :  
--> Olivier :  
+-> Olivier :    
 Features:  
 Incorpore le dataset en dataframe et l'analyse.  
 Prédit la note final à l'examen en se basant sur des models de prédiction de "machine learning".  
