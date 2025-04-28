@@ -1,8 +1,8 @@
 # **Projet DSE FT 101 - groupe "room 4"**
 Bonjour, voici le projet du groupe "room 4" pourtant sur la prédiction des scores l'examen :
 
-en se basant sur le dataset de Kaggle -> "https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data"  
-en équipe avec :  
+* en se basant sur le dataset de Kaggle -> "https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data"  
+* en équipe avec :  
 -> Thomas : https://github.com/FastCapybara31/dse  
 -> Anthony : https://github.com/Ant-gcb/DSE_Project  
 -> Asma :  
