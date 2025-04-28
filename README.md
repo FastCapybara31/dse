@@ -6,7 +6,7 @@ Bonjour, voici le projet du groupe "room 4" portant sur la prédiction des score
   - Albert : https://github.com/Ter0rra/projet-DSE-FT-101-room-4-  
   - Anthony : https://github.com/Ant-gcb/DSE_Project  
   - Asma :  
-  - Olivier :    
+  - Olivier : https://github.com/Oliver-DSE   
 
 ## **Features:**  
 Incorpore le dataset en dataframe et l'analyse.  
